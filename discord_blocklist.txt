@@ -17,3 +17,6 @@ pro-accounts.snapchat.com
 api.snapchat.com
 app.snapchat.com
 chat-gateway-prod.chat.snapchat.com
+internal-api.snapkit.com
+gtq.sct.sc-prod.net
+mvm.snapchat.com

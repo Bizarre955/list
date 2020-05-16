@@ -21,4 +21,4 @@ us-central1-gcp.api.snapchat.com
 snapchat.appspot.com
 sc-analytics.appspot.com
 feelinsonice-hrd.appspot.com
-www.feelinsonice.com
+feelinsonice.com

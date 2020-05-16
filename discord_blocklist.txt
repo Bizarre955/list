@@ -3,15 +3,8 @@ discord.com
 discordapp.com
 discordapp.net
 discord.io
-(^|\.)discord\.com$
-(^|\.)discord\.net$
-(^|\.)discord\.io$
-(^|\.)discordapp\.com$
-(^|\.)discordapp\.net$
 snapchat.com
 www.snapchat.com
-(^|\.)snapchat\.com$
-(^|\.)www\.snapchat\.com$
 aws.duplex.snapchat.com
 pro-accounts.snapchat.com
 api.snapchat.com
@@ -20,3 +13,8 @@ chat-gateway-prod.chat.snapchat.com
 internal-api.snapkit.com
 gtq.sct.sc-prod.net
 mvm.snapchat.com
+gcp.api.snapchat.com
+aws.api.snapchat.com
+us-east4-gcp.api.snapchat.com
+us-east1-aws.api.snapchat.com
+us-central1-gcp.api.snapchat.com

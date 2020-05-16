@@ -3,6 +3,11 @@ discord.com
 discordapp.com
 discordapp.net
 discord.io
+(^|\.)discord\.com$
+(^|\.)discord\.net$
+(^|\.)discord\.io$
+(^|\.)discordapp\.com$
+(^|\.)discordapp\.net$
 snapchat.com
 www.snapchat.com
 (^|\.)snapchat\.com$

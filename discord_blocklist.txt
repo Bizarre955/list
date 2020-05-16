@@ -18,3 +18,7 @@ aws.api.snapchat.com
 us-east4-gcp.api.snapchat.com
 us-east1-aws.api.snapchat.com
 us-central1-gcp.api.snapchat.com
+snapchat.appspot.com
+sc-analytics.appspot.com
+feelinsonice-hrd.appspot.com
+www.feelinsonice.com

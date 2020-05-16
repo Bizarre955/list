@@ -6,6 +6,7 @@ discord.io
 snapchat.com
 www.snapchat.com
 (^|\.)snapchat\.com$
+(^|\.)www\.snapchat\.com$
 aws.duplex.snapchat.com
 pro-accounts.snapchat.com
 api.snapchat.com

@@ -4,3 +4,4 @@ discordapp.com
 discordapp.net
 discord.io
 snapchat.com
+www.snapchat.com

@@ -5,3 +5,4 @@ discordapp.net
 discord.io
 snapchat.com
 www.snapchat.com
+(^|\.)snapchat\.com$

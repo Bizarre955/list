@@ -3,6 +3,7 @@ discord.com
 discordapp.com
 discordapp.net
 discord.io
+discordservers.com
 snapchat.com
 www.snapchat.com
 aws.duplex.snapchat.com
